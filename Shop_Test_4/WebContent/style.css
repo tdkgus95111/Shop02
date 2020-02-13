@@ -1,0 +1,48 @@
+header{
+	background-color: #0080ff;
+	color: white;
+	text-align: center;
+	padding: 5px 10px;
+}
+nav{
+	background-color: #8080ff;
+	color: white;
+	padding: 5px 10px;
+}
+section{
+	background-color: #c0c0c0;
+	text-align: center;
+	padding: 5px 10px;
+	min-height: 600px;
+}
+footer{
+	background-color: #0080ff;
+	color: white;
+	text-align: center;
+	padding: 5px 10px;
+}
+ul{
+	list-style-type: none;
+	display: inline-block;
+}
+li {
+	float: left;
+	padding: 0px 20px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+table {
+	margin: auto;
+	text-align: center;
+}
+table td, th{
+	padding: 3px 5px;
+}
+.tbl1{
+	width: 700px;
+}
+.tbl2{
+	width: 500px;
+}
